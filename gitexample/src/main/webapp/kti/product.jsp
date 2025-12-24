@@ -7,9 +7,11 @@
 <meta charset="UTF-8">
 <title>product.jsp 김태일 제작</title>
 </head>
+
 <body>
 
 <h1> product.jsp 첫 번째 커밋 입니다. </h1>
+<h2> 안녕하세요 김태일 입니다. </h2>
 
 </body>
 </html>
