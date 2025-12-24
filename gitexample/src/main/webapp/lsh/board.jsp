@@ -7,6 +7,6 @@
 <title>board.jsp 입니다.</title>
 </head>
 <body>
-
+<a href="<%= request.getContextPath() %>/index.jsp">다시 메인으로 이동</a>
 </body>
 </html>
